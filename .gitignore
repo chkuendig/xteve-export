@@ -1,0 +1,10 @@
+__pycache__
+.idea/
+*.m3u*
+*.xml
+*.txt
+*.gz
+*.sh
+*.json
+!sample_input_args.json
+*.log

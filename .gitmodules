@@ -1,0 +1,3 @@
+[submodule "m3u-epg-editor"]
+	path = m3u-epg-editor
+	url = https://github.com/jjssoftware/m3u-epg-editor
